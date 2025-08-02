@@ -2,7 +2,7 @@
   <div class="home">
     <!-- <img alt="Vue logo" src="../assets/logo.png"> -->
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
-    <div class="title">聚魔之地魔物記錄</div>
+    <div class="title">聚魔之地魔物紀錄</div>
     <div class="search-text">
       搜尋中的文字：<span>{{ searchingValue }}</span>
     </div>
