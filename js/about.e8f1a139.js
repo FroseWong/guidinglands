@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkguiding_lands"]=self["webpackChunkguiding_lands"]||[]).push([[594],{709:function(n,u,a){a.r(u),a.d(u,{default:function(){return d}});var s=a(641);const t={class:"about"};function e(n,u){return(0,s.uX)(),(0,s.CE)("div",t,u[0]||(u[0]=[(0,s.Lk)("h1",null,"This is an about page",-1)]))}var i=a(262);const r={},c=(0,i.A)(r,[["render",e]]);var d=c}}]);
+//# sourceMappingURL=about.e8f1a139.js.map
